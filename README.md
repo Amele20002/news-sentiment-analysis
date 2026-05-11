@@ -33,7 +33,7 @@ news-sentiment-analysis/
 ├── .github/workflows/
 ├── data/
 ├── notebooks/
-├── scripts/
+├── scripts/jupyter notebook
 ├── src/
 ├── tests/
 ├── requirements.txt
